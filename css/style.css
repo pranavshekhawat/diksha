@@ -1,0 +1,45 @@
+/* Diksha's website css */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* text */
+
+.text {
+    color: brown;
+    font-size: 50px;
+    background-color: beige;
+}
+
+.link_to_google {
+    background-color: brown;
+}
+
+.link_text {
+    color: beige;
+    font-size: 25px;
+}
+
+.padding {
+    padding: 30px;
+}
+
+.hr_tag {
+    margin: 10px 0 10px 0;
+}
+
+.font1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dancingimage {
+    width: 100%;
+}
